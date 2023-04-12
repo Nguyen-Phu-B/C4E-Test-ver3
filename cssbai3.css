@@ -97,6 +97,10 @@ html {
     border: 1px solid #BFC8E5;
 }
 
+.card:hover {
+    transform: scale(1.15);
+}
+
 .card .pad {
     padding: 24px;
     display: flex;
